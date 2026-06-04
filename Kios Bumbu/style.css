@@ -1,0 +1,16 @@
+body {
+    background-color: blanchedalmond;
+}
+
+header {
+    background-color: black;
+    color: aliceblue;
+    padding-left: 10px;
+}
+h1 {
+    display: inline;
+}
+.home {
+    display: flex;
+    justify-content: flex-end;
+}
